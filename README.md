@@ -1,6 +1,6 @@
-# Data Structures In Python
+# Data_Structures_In_Python
 
-## Topics Convered:
+## Topics Covered:
 
 - Arrays
 - Stacks
